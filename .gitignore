@@ -9,8 +9,8 @@ __pycache__/
 # Config file
 config.py
 
-# Datasets
-Datasets/
+# Datasets rating csv
+Datasets/ratings.csv
 
 # Distribution / packaging
 .Python
